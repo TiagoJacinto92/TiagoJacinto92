@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+<a href="https://app.daily.dev/Justin92"><img src="https://api.daily.dev/devcards/52ff30c17bd44074b5743ddd3bdca3f5.png?r=rk6" width="400" alt="Tiago Jacinto's Dev Card"/></a>
 <!--
 **TiagoJacinto92/TiagoJacinto92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
